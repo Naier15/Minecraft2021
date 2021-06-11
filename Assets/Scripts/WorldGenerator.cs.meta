@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 41637ac24996180418c161538aac1017
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - voxel: {fileID: 2071746730835802078, guid: dac641a1933250446b5359d22b3561b8, type: 3}
+  - stone: {fileID: 6342612394411962654, guid: ccf9c8f794dede34fbdaaa46deb67216, type: 3}
+  - dirty: {fileID: 310272096250172076, guid: db354fe320c5c094f98ef88c8483de64, type: 3}
+  - water: {fileID: 5066840349531507032, guid: c6d2b59e794a11d489282c2db0740cce, type: 3}
+  - badrock: {fileID: 9065905601106633306, guid: c9aab85054c71ad42a573dd9e066a7b1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
